@@ -1,0 +1,4 @@
+Pupils.txt
+#id#SURNAME#NAME#PATRONYMIC#AGE#CLASS#
+#0#Polosin#Pavel#Ilich#17#11#
+#1#LA#LA#LA#LA#LA#
